@@ -30,3 +30,10 @@ html {
     cursor: pointer;
     transition: all 0.3s ease;
   }
+
+  #datetime {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    border: 1px solid grey;
+  }
