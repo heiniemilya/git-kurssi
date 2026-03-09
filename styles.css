@@ -14,23 +14,6 @@ html {
     text-align: center;
   }
 
-  button {
-    background-color: #daa2d3;
-    color: #571a45;
-    border: 1px solid linen;
-    margin: 10px;
-    padding: 10px 20px;
-    border-radius: 20px;
-  }
-
-  button:hover {
-    background-color: #c98ac3;
-    color: #33050f;
-    border: 1px solid #c98ac3;
-    cursor: pointer;
-    transition: all 0.3s ease;
-  }
-
   #datetime {
     background-color: white;
     width: 300px;
