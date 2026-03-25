@@ -2,4 +2,3 @@
 
 Tässä repositoriossa on Git-versionhallinta kurssin harjoitukset 1-7.
 
-– Heini Karjalainen
